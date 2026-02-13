@@ -1,16 +1,46 @@
-# React + Vite
+# 📝 React To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive To-Do application built using **React**.
 
-Currently, two official plugins are available:
+This project allows users to manage daily tasks with filtering, searching, editing, and persistent storage using localStorage.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ✅ Add new tasks
+- ✏️ Edit existing tasks
+- ❌ Delete tasks
+- 🔎 Search tasks
+- 🎯 Filter by status (All / Not Started / Pending / Completed)
+- 💾 Persistent storage using localStorage
+- 📱 Fully responsive design
+- 📜 Scrollable task container
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- React (useState, useEffect)
+- CSS (Flexbox + Responsive Design)
+- LocalStorage API
+
+---
+
+## What I Learned
+
+- State management in React
+- Using useEffect for side effects
+- Data persistence with localStorage
+- Responsive UI design
+- Conditional rendering
+- Scrollable layouts
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/ChaitaliWaware74/react-todo-app.git
