@@ -43,4 +43,4 @@ This project allows users to manage daily tasks with filtering, searching, editi
 Clone the repository:
 
 ```bash
-git clone https://github.com/ChaitaliWaware74/react-todo-app.git
+git clone https://github.com/ChaitaliWaware74/react-todo-app](https://github.com/ChaitaliWaware74/To-Do-List.git
