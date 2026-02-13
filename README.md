@@ -27,7 +27,7 @@ This project allows users to manage daily tasks with filtering, searching, editi
 
 ---
 
-## What I Learned
+## Learnings
 
 - State management in React
 - Using useEffect for side effects
@@ -36,11 +36,3 @@ This project allows users to manage daily tasks with filtering, searching, editi
 - Conditional rendering
 - Scrollable layouts
 
----
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/ChaitaliWaware74/react-todo-app](https://github.com/ChaitaliWaware74/To-Do-List.git
